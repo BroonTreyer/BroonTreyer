@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="assets/avatar.png" width="170" alt="br00n" />
-
-</div>
 
 ```bash
 root@broon:~$ whoami
