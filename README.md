@@ -1,47 +1,39 @@
 <div align="center">
 
-<img src="assets/grimnir.png" width="180" alt="Grímnir" />
-
-# ᚷ · GRÍMNIR · ᚷ
-### *o encapuzado*
-
-> *Dizem que ninguém nunca viu meu rosto.*
-> *Também, né — fico 14 horas por dia atrás de três monitores.*
+<img src="assets/avatar.png" width="170" alt="br00n" />
 
 </div>
 
----
+```bash
+root@broon:~$ whoami
+> br00n — builder de automações, bots e sistemas com IA.
 
-Builder vindo das brumas do Norte. Forjo **automações, assistentes com IA e aplicações web** —
-do protótipo ao deploy, sem temer as Nornas da sexta-feira à noite.
+root@broon:~$ cat ./bio.txt
+> Transformo café em código e código em dinheiro.
+> Automatizo tudo que faço mais de duas vezes.
+> Não tenho bugs — tenho features não documentadas.
+```
 
-- ⚒️ **Forjando agora:** bots de WhatsApp, assistentes comerciais com IA e uns SaaS pelo caminho
-- 🐦‍⬛ **Meus corvos** (Hugin & Munin) sobrevoam a produção caçando bug antes do usuário
-- ⚰️ Troquei um olho por sabedoria. O outro, por um segundo monitor.
-- 📜 Meu código compila na primeira. (Mentira. Mas a lenda fica melhor assim.)
+### `~/stack`
 
-### ᚱ Runas que domino
+![TypeScript](https://img.shields.io/badge/TypeScript-023430?style=flat-square&logo=typescript&logoColor=3ef08a)
+![JavaScript](https://img.shields.io/badge/JavaScript-023430?style=flat-square&logo=javascript&logoColor=3ef08a)
+![Node.js](https://img.shields.io/badge/Node.js-023430?style=flat-square&logo=node.js&logoColor=3ef08a)
+![Next.js](https://img.shields.io/badge/Next.js-023430?style=flat-square&logo=next.js&logoColor=3ef08a)
+![React](https://img.shields.io/badge/React-023430?style=flat-square&logo=react&logoColor=3ef08a)
+![Python](https://img.shields.io/badge/Python-023430?style=flat-square&logo=python&logoColor=3ef08a)
+![Supabase](https://img.shields.io/badge/Supabase-023430?style=flat-square&logo=supabase&logoColor=3ef08a)
+![Linux](https://img.shields.io/badge/Linux-023430?style=flat-square&logo=linux&logoColor=3ef08a)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### `~/projetos $ ls -la`
 
-### ⚔️ Forjas recentes
+```text
+drwxr-xr-x  bots-whatsapp/     assistentes de IA que atendem, cruzam dados e respondem sozinhos
+drwxr-xr-x  automacoes-web/    geradores de site e painéis que sobem tudo com um clique
+drwxr-xr-x  scrapers-bots/     quando a tarefa é repetitiva, um script faz por mim
+```
 
-- **Assistentes de IA no WhatsApp** — atendimento comercial que entende, cruza dados e responde sozinho.
-- **Geradores & automações web** — do site por nicho ao painel que inicia tudo com um clique.
-- **Bots & raspadores** — quando a tarefa é repetitiva, mando um servo de código no meu lugar.
-
-<div align="center">
-
----
-
-*"O código compila. Que os deuses tenham piedade de quem for dar manutenção."*
-— provérbio viking (que eu inventei agora)
-
-</div>
+```bash
+root@broon:~$ sudo rm -rf /tarefas-repetitivas
+root@broon:~$ _
+```
